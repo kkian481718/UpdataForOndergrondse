@@ -1,4 +1,4 @@
 
-<Version: 0.2.1>
+<Version: 0.2.2>
 /data/EDGE https://wordpress.org/latest.zip
 <End of Version>
